@@ -27,7 +27,6 @@ class ShoppingCart:
         print("Thank you for shopping!")
 
 
-# Create object
 cart = ShoppingCart()
 
 while True:
@@ -59,4 +58,5 @@ while True:
         break
 
     else:
+
         print("Invalid choice.")
